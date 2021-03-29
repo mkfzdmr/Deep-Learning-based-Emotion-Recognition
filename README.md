@@ -22,7 +22,7 @@ Citation is now available. Please cite us by following;
 Ozdemir, M., Degirmenci, M., Izci, E. & Akan, A. (2021). EEG-based emotion recognition with deep convolutional neural networks. Biomedical Engineering / Biomedizinische Technik, 66(1), 43-57. https://doi.org/10.1515/bmt-2019-0306
 
 ```
-@article{Ozdemir2021EEG
+@article{Ozdemir2021EEG,
 author = {Mehmet Akif Ozdemir and Murside Degirmenci and Elif Izci and Aydin Akan},
 doi = {doi:10.1515/bmt-2019-0306},
 url = {https://doi.org/10.1515/bmt-2019-0306},
